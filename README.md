@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/Rohit-620">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Rohit%20Sahu%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Rohit%20%F0%9F%91%8B;B.Tech%20in%20CSE%20(AI%20%26%20ML)%20%F0%9F%8E%93;Aspiring%20AI%2FML%20Engineer%20%F0%9F%A4%96;Python%20%E2%80%A2%20Java%20%E2%80%A2%20ML%20%E2%80%A2%20Web%20Dev%20%F0%9F%92%BB;Building%20intelligent%20%26%20scalable%20solutions%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-sahu-195a10331/" target="_blank">
+  <a href="https://linkedin.com/in/rohit-sahu-195a10331" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -31,7 +31,7 @@
 <h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Aspiring+AI%2FML+Engineer+%7C+Problem+Solver+%7C+Developer" width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
@@ -39,42 +39,69 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Rohit Sahu</b>, a passionate <b>Computer Science Engineer & Developer</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, working with modern software stacks, and building impactful digital solutions to solve real-world problems.
+  Hey! I'm <b>Rohit</b>, pursuing <b>B.Tech in Computer Science & Engineering (AI & ML)</b>.<br />
+  Aspiring <b>AI/ML Engineer</b> passionate about training intelligent models, solving algorithmic challenges, and crafting full-stack web applications.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-🟢_Learning_%26_Building-111111?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(AI_%26_ML)-DC2626?style=flat-square" alt="Degree" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Software_Dev-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML_%26_Full_Stack-111111?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> JavaScript, TypeScript, React, Node.js, Python, Databases & System Architecture.<br />
-  ⚡ <b>Philosophy:</b> <i>"Turning complex problems into clean, reliable, and scalable code!"</i>
+  💬 <b>Core Stack:</b> Python, Java, Machine Learning, Deep Learning, MERN Stack & DSA.<br />
+  ⚡ <b>Philosophy:</b> <i>"Turning raw data and creative logic into intelligent production software!"</i>
 </p>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Active Focus</h4>
-  <p><b>Full-Stack Development</b><br /><sub>Scalable Web Apps &amp; Backend Systems</sub></p>
+  <h4>📌 Currently Learning</h4>
+  <p><b>Advanced ML &amp; Deep Learning</b><br /><sub>Exploring Computer Vision &amp; NLP</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Deep Dives</h4>
-  <p><b>DSA &amp; Modern Frameworks</b><br /><sub>Cloud Technologies &amp; Clean Architecture</sub></p>
+  <h4>🌱 Active Practice</h4>
+  <p><b>DSA with Java</b><br /><sub>OOP, Algorithms &amp; System Concepts</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
-  <p><b>Open Source &amp; Projects</b><br /><sub>Always open to building cool stuff</sub></p>
+  <h4>🚀 Current Focus</h4>
+  <p><b>AI/ML &amp; Full-Stack Projects</b><br /><sub>End-to-End Scalable Systems</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>📫 Get In Touch</h4>
-  <p><a href="mailto:sahurohit16620@gmail.com"><b>sahurohit16620@gmail.com</b></a><br /><sub>Direct discussions &amp; inquiries</sub></p>
+  <h4>🤝 Collaboration</h4>
+  <p><b>Open Source &amp; Research</b><br /><sub>Always open to building impactful ideas</sub></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="33%" align="center" style="padding: 18px;">
+  <h3>🏡 House Price Prediction</h3>
+  <p><i>Machine Learning based regression system for predicting residential house prices using data-driven feature engineering and model evaluation.</i></p>
+  <br />
+  <img src="https://img.shields.io/badge/Tech-Python_•_Scikit--Learn_•_Pandas-DC2626?style=flat-square" alt="ML Stack" />
+</td>
+<td width="33%" align="center" style="padding: 18px;">
+  <h3>🎨 Little Krishna</h3>
+  <p><i>Engaging dynamic image reveal animation built using Python, OpenCV computer vision pipelines, and NumPy matrix manipulation.</i></p>
+  <br />
+  <img src="https://img.shields.io/badge/Tech-Python_•_OpenCV_•_NumPy-DC2626?style=flat-square" alt="CV Stack" />
+</td>
+<td width="33%" align="center" style="padding: 18px;">
+  <h3>🛍️ ShopMart</h3>
+  <p><i>Full-featured modern e-commerce web platform built on the MERN stack with product management, shopping cart, and authenticated checkout.</i></p>
+  <br />
+  <img src="https://img.shields.io/badge/Tech-React_•_Node_•_Express_•_MongoDB-DC2626?style=flat-square" alt="MERN Stack" />
 </td>
 </tr>
 </table>
@@ -83,40 +110,52 @@
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<p align="center"><b>Core Programming Languages</b></p>
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,c&theme=dark" width="100%" style="max-width: 260px;" alt="Programming Languages" />
   </a>
 </p>
 
-<p align="center"><b>Frontend & UI Frameworks</b></p>
+<p align="center"><b>AI, Machine Learning & Deep Learning</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" width="100%" style="max-width: 260px;" alt="AI and ML Frameworks" />
   </a>
 </p>
-
-<p align="center"><b>Backend, Cloud & Databases</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
-  </a>
-</p>
-
-<p align="center"><b>Tools, DevOps & Architecture</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and DevOps" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=EF4444" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JWT_Auth-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=EF4444" alt="JWT" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GraphQL-0a0a0a?style=for-the-badge&logo=graphql&logoColor=EF4444" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Computer_Vision-0a0a0a?style=for-the-badge&logo=opencv&logoColor=EF4444" alt="Computer Vision" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLP-0a0a0a?style=for-the-badge&logo=natural-language-processing&logoColor=EF4444" alt="NLP" />
+</p>
+
+<p align="center"><b>Web Development (MERN Stack)</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb&theme=dark" width="100%" style="max-width: 380px;" alt="Web Development" />
+  </a>
+</p>
+
+<p align="center"><b>Tools & Development Environments</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="100%" style="max-width: 200px;" alt="Tools" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA_&_OOP-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=EF4444" alt="DSA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Model_Evaluation-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Model Evaluation" />
 </p>
 
 ---
@@ -149,12 +188,12 @@
 
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 
-<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+<p align="center"><i>Always excited to discuss AI/ML innovations, software engineering, or open-source collaboration!</i></p>
 
 <table border="0" align="center">
 <tr>
 <td align="center" width="260" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/rohit-sahu-195a10331/" target="_blank">
+  <a href="https://linkedin.com/in/rohit-sahu-195a10331" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -169,7 +208,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   <br />
-  <sub><b>Direct Collaboration</b></sub>
+  <sub><b>Direct Inquiries</b></sub>
 </td>
 <td align="center" width="260" style="padding: 16px;">
   <a href="https://github.com/Rohit-620" target="_blank">
@@ -178,7 +217,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
   </a>
   <br />
-  <sub><b>Check Out Repositories</b></sub>
+  <sub><b>Explore Repositories</b></sub>
 </td>
 </tr>
 </table>
