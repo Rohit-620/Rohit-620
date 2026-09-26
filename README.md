@@ -92,10 +92,10 @@
   <img src="https://img.shields.io/badge/Tech-Python_•_Scikit--Learn_•_Pandas-DC2626?style=flat-square" alt="ML Stack" />
 </td>
 <td width="33%" align="center" style="padding: 18px;">
-  <h3>🎨 Little Krishna</h3>
-  <p><i>Engaging dynamic image reveal animation built using Python, OpenCV computer vision pipelines, and NumPy matrix manipulation.</i></p>
+  <h3>📚 EduRegistry</h3>
+  <p><i>Modern, responsive Student Management System built with Django featuring real-time search, live preview, analytics dashboard, and CSV export.</i></p>
   <br />
-  <img src="https://img.shields.io/badge/Tech-Python_•_OpenCV_•_NumPy-DC2626?style=flat-square" alt="CV Stack" />
+  <img src="https://img.shields.io/badge/Tech-Python_•_Django_•_Bootstrap_•_SQLite-DC2626?style=flat-square" alt="Django Stack" />
 </td>
 <td width="33%" align="center" style="padding: 18px;">
   <h3>🛍️ ShopMart</h3>
